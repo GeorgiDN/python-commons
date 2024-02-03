@@ -8,3 +8,5 @@ In this repository, there is a series of mini-projects with python.
 ➡ [TO-DO-LIST](https://github.com/GeorgiDN/python-mini-projects/tree/main/TO_DO_LIST)
 
 ➡ [TIC-TAC-TOE](https://github.com/GeorgiDN/python-mini-projects/tree/main/TIC_TAC_TOE)
+
+➡ [MATH](https://github.com/GeorgiDN/python-mini-projects/tree/main/MATH)
