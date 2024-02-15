@@ -1,28 +1,27 @@
 from tkinter import *
 
-
 def button_click(number):
     current = e.get()
     e.delete(0, END)
     e.insert(0, str(current) + number)
 
-
 def button_clear():
     e.delete(0, END)
 
-
 def perform_operation(operator):
+    first_number = e.get()
     global f_num
     global math
-    first_number = e.get()
     math = operator
     f_num = int(first_number)
     e.delete(0, END)
 
-
 def button_equal():
+    global f_num
     second_number = e.get()
     e.delete(0, END)
+
+    result = 0  # Initialize result
 
     if math == "addition":
         result = f_num + int(second_number)
@@ -41,7 +40,6 @@ def button_equal():
     with open('calculations.txt', 'a') as file:
         file.write(f"{f_num} {math} {second_number} = {result}\n")
 
-
 root = Tk()
 root.title("My calculator")
 
@@ -58,12 +56,14 @@ buttons = [
 
 row_val = 1
 col_val = 0
+math = None  # Initialize math
+f_num = None
 
 for button in buttons:
     if button == 'Clear':
-        btn = Button(root, text=button, padx=73, pady=20, command=button_clear)
+        btn = Button(root, text=button, padx=40, pady=20, command=button_clear)
     elif button == '=':
-        btn = Button(root, text=button, padx=168, pady=20, command=button_equal)
+        btn = Button(root, text=button, padx=40, pady=20, command=button_equal)
     else:
         btn = Button(root, text=button, padx=40, pady=20, command=lambda b=button: button_click(b))
 
