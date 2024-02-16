@@ -102,14 +102,17 @@ def button_equal():
     elif math == "percent":
         result = (f_num * float(second_number)) / 100
 
+    if result % 1 == 0:
+        result = int(result)
+
     e.insert(0, result)
 
     # Store the calculation in a text file
     if math != "square_root":
-        with open('calculations.txt', 'a') as file:
+        with open('../calculations.txt', 'a') as file:
             file.write(f"{f_num} {math} {second_number} = {result}\n")
     else:
-        with open('calculations.txt', 'a') as file:
+        with open('../calculations.txt', 'a') as file:
             file.write(f"{math} of {f_num}  is {result}\n")
 
 
@@ -129,17 +132,18 @@ button_7 = Button(root, text='7', padx=40, pady=20, bg="grey", command=lambda: b
 button_8 = Button(root, text='8', padx=40, pady=20, bg="grey", command=lambda: button_click("8"))
 button_9 = Button(root, text='9', padx=40, pady=20, bg="grey", command=lambda: button_click("9"))
 button_0 = Button(root, text='0', padx=40, pady=20, bg="grey", command=lambda: button_click("0"))
-button_point = Button(root, text='.', padx=40, pady=20, command=button_point)
-button_add = Button(root, text='+', padx=39, pady=20, command=button_add)
-button_equal = Button(root, text='=', padx=92, pady=20, command=button_equal)
-button_clear = Button(root, text='C', padx=40, pady=20, command=button_clear)
+button_point = Button(root, text='.', padx=40, pady=20, bg="grey", command=button_point)
 
-button_subtract = Button(root, text='-', padx=41, pady=20, command=button_subtract)
-button_multiply = Button(root, text='*', padx=40, pady=20, command=button_multiply)
-button_divide = Button(root, text='/', padx=41, pady=20, command=button_divide)
-button_exponentiation = Button(root, text='**', padx=38, pady=20, command=button_exponentiation)
-button_square_root = Button(root, text='√', padx=38, pady=20, command=button_square_root)
-button_percent = Button(root, text='%', padx=38, pady=20, command=button_percent)
+button_add = Button(root, text='+', padx=39, pady=20, bg="grey", command=button_add)
+button_equal = Button(root, text='=', padx=92, pady=20, bg="blue", command=button_equal)
+button_clear = Button(root, text='C', padx=40, pady=20, bg="green", command=button_clear)
+
+button_subtract = Button(root, text='-', padx=41, pady=20, bg="grey", command=button_subtract)
+button_multiply = Button(root, text='*', padx=40, pady=20, bg="grey", command=button_multiply)
+button_divide = Button(root, text='/', padx=41, pady=20, bg="grey", command=button_divide)
+button_exponentiation = Button(root, text='**', padx=38, pady=20, bg="grey", command=button_exponentiation)
+button_square_root = Button(root, text='√', padx=38, pady=20, bg="grey", command=button_square_root)
+button_percent = Button(root, text='%', padx=38, pady=20, bg="grey", command=button_percent)
 
 button_1.grid(row=3, column=0)
 button_2.grid(row=3, column=1)
@@ -155,20 +159,21 @@ button_9.grid(row=1, column=2)
 
 button_0.grid(row=4, column=0)
 button_point.grid(row=4, column=1)
-button_add.grid(row=5, column=0)
+button_add.grid(row=4, column=2)
 
-button_subtract.grid(row=6, column=0)
+button_subtract.grid(row=5, column=2)
 button_multiply.grid(row=6, column=1)
-button_divide.grid(row=4, column=2)
+button_divide.grid(row=5, column=0)
 
 button_exponentiation.grid(row=7, column=0)
 button_square_root.grid(row=5, column=1)
-button_percent.grid(row=5, column=2)
+button_percent.grid(row=6, column=0)
 
 button_clear.grid(row=6, column=2)
 button_equal.grid(row=7, column=1, columnspan=2)
 
 root.mainloop()
+
 
 
 
