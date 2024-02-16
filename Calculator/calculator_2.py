@@ -150,16 +150,17 @@ button_8.grid(row=1, column=1)
 button_9.grid(row=1, column=2)
 
 button_0.grid(row=4, column=0)
-button_clear.grid(row=4, column=1, columnspan=2)
 button_add.grid(row=5, column=0)
-button_equal.grid(row=5, column=1, columnspan=2)
 
 
 button_subtract.grid(row=6, column=0)
-button_multiply.grid(row=6, column=1)
-button_divide.grid(row=6, column=2)
-button_exponentiation.grid(row=7, column=0)
-button_square_root.grid(row=7, column=1)
-button_percent.grid(row=7, column=2)
+button_multiply.grid(row=4, column=1)
+button_divide.grid(row=4, column=2)
 
+button_exponentiation.grid(row=7, column=0)
+button_square_root.grid(row=5, column=1)
+button_percent.grid(row=5, column=2)
+
+button_clear.grid(row=6, column=1, columnspan=2)
+button_equal.grid(row=7, column=1, columnspan=2)
 root.mainloop()
