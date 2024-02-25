@@ -12,7 +12,11 @@ In this repository, there is a series of mini-projects with python.
 
 ➡ [MATH](https://github.com/GeorgiDN/python-mini-projects/tree/main/MATH)
 
-➡ [Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20images)
+➡[Extract Emails](https://github.com/GeorgiDN/python-mini-projects/tree/main/Extract_emails)
+
+➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20images)
+
+
 
 
 
@@ -25,5 +29,7 @@ In this repository, there is a series of mini-projects with python.
 ➡[Used library colorama](https://pypi.org/project/colorama/)
 
 ➡[Make icon from png file](https://www.geeksforgeeks.org/convert-png-to-ico-with-pillow-in-python/)
+
+➡[Resize image](https://imagekit.io/blog/image-resizing-in-python/)
 
 
