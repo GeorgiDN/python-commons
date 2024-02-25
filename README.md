@@ -7,12 +7,13 @@ In this repository, there is a series of mini-projects with python.
 
 ➡ [TO-DO-LIST](https://github.com/GeorgiDN/python-mini-projects/tree/main/TO_DO_LIST)
 
-
 ➡ [TIC-TAC-TOE](https://github.com/GeorgiDN/python-mini-projects/tree/main/TIC_TAC_TOE)
 
 ➡ [MATH](https://github.com/GeorgiDN/python-mini-projects/tree/main/MATH)
 
 ➡[Extract Emails](https://github.com/GeorgiDN/python-mini-projects/tree/main/Extract_emails)
+
+➡[Calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Calculator)
 
 ➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20images)
 
