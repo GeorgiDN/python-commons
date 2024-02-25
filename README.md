@@ -33,4 +33,6 @@ In this repository, there is a series of mini-projects with python.
 
 ➡[Resize image](https://imagekit.io/blog/image-resizing-in-python/)
 
+➡[Image Viewer](https://www.geeksforgeeks.org/image-viewer-app-in-python-using-tkinter/)
+
 
