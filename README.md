@@ -16,6 +16,7 @@ In this repository, there is a series of mini-projects with python.
 
 ➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20images)
 
+➡[Image Viewer](https://github.com/GeorgiDN/python-mini-projects/tree/main/Image%20Viewer)
 
 
 
