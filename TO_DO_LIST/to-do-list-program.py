@@ -121,7 +121,7 @@ def print_invalid_message():
         Back.YELLOW + Fore.BLACK + "---------- Invalid choice! Please enter a number between 1 and 4! ---------")
 
 
-def to_do_list_implementation():
+def main():
     to_do_list = []
     while True:
         print(Fore.LIGHTBLUE_EX + "===== To-Do List Menu =====\n" + Fore.MAGENTA +
@@ -158,4 +158,4 @@ def to_do_list_implementation():
             print_invalid_message()
 
 
-to_do_list_implementation()
+main()
