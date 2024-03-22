@@ -2,8 +2,8 @@ from tkinter import *
 from PIL import Image, ImageTk
 
 # Create logo
-# logo = Image.open('D:\PYTHON_PROJECTS_5\TKINTER_LIBARY\icons_imges_exit_buttons\Python-logo.png')
-# logo.save('D:\PYTHON_PROJECTS_5\TKINTER_LIBARY\icons_imges_exit_buttons\Python-logo.ico', format="ICO")
+# logo = Image.open('Python-logo.png')
+# logo.save('Python-logo.ico', format="ICO")
 
 
 # Resize Images
@@ -31,7 +31,7 @@ from PIL import Image, ImageTk
 
 root = Tk()
 root.title("Python")
-root.iconbitmap('D:\PYTHON_PROJECTS_5\TKINTER_LIBARY\icons_imges_exit_buttons\Python-logo.ico')
+root.iconbitmap('Python-logo.ico')
 my_img1 = ImageTk.PhotoImage(Image.open("Python-logo.png"))
 my_img2 = ImageTk.PhotoImage(Image.open("Python-logo2.png"))
 my_img3 = ImageTk.PhotoImage(Image.open("Python-logo3.png"))
