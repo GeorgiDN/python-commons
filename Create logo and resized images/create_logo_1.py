@@ -2,8 +2,8 @@ from PIL import Image
 
 
 # Create logo icon
-logo = Image.open('D:\PYTHON_PROJECTS_5\TKINTER_LIBARY\create_logo\Python_logo.png')
-logo.save('D:\PYTHON_PROJECTS_5\TKINTER_LIBARY\create_logo\Python_logo.ico', format="ICO")
+logo = Image.open('Python_logo.png')
+logo.save('Python_logo.ico', format="ICO")
 
 
 # Resize Images
