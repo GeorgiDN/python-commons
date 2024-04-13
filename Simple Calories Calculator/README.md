@@ -1,4 +1,4 @@
-# Calories-Calculator
+# Simle Calories-Calculator
 Nutrition Tracking System with Visual Progress and Goal Setting
 
 Code Review: Nutrition Tracker in Python
