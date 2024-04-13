@@ -20,6 +20,8 @@
 ➡[Image Viewer](https://github.com/GeorgiDN/python-mini-projects/tree/main/Image%20Viewer)
 
 
+➡[Simple calories calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Simple%20Calories%20Calculator)
+
 
 
 
