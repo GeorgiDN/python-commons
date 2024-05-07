@@ -22,7 +22,7 @@ def playerInput(board):
     if 1 <= inp <= 9 and board[inp-1] == "-":
         board[inp-1] = currentPlayer
     else:
-        print("Oops player is already in that spot or index os out of range!")
+        print("Oops player is already in that spot or index is out of range!")
         while True:
             inp = int(input("Enter a number 1-9: "))
             if 1 <= inp <= 9 and board[inp - 1] == "-":
