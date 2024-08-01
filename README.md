@@ -22,6 +22,8 @@
 
 ➡[Simple calories calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Simple%20Calories%20Calculator)
 
+➡[Simple calories calculator with Excel](https://github.com/GeorgiDN/python-mini-projects/tree/main/Simple%20Calories%20Calculator%20with%20Excel)
+
 
 
 
