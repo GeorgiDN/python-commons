@@ -26,6 +26,8 @@
 
 ➡[Registration Form](https://github.com/GeorgiDN/python-mini-projects/tree/main/Registration%20Form)
 
+➡[Read pdf File](https://github.com/GeorgiDN/python-commons/tree/main/Read%20pdf%20File)
+
 
 
 
