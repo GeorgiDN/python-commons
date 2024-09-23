@@ -11,24 +11,24 @@
 
 ➡ [MATH](https://github.com/GeorgiDN/python-mini-projects/tree/main/MATH)
 
-➡[Extract Emails](https://github.com/GeorgiDN/python-mini-projects/tree/main/Extract_emails)
+➡[Extract Emails](https://github.com/GeorgiDN/python-mini-projects/tree/mhttps://github.com/GeorgiDN/python-commons/tree/main/extract_emails)
 
 ➡[Calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Calculator)
 
-➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20images)
+➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20imageshttps://github.com/GeorgiDN/python-commons/tree/main/create_logo_and_resized_images)
 
-➡[Image Viewer](https://github.com/GeorgiDN/python-mini-projects/tree/main/Image%20Viewer)
+➡[Image Viewer](https://github.com/GeorgiDN/python-commons/tree/main/image_viewer)
 
 
-➡[Simple calories calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Simple%20Calories%20Calculator)
+➡[Simple calories calculator](https://github.com/GeorgiDN/python-commons/tree/main/simple_calories_calculator)
 
-➡[Simple calories calculator with Excel](https://github.com/GeorgiDN/python-mini-projects/tree/main/Simple%20Calories%20Calculator%20with%20Excel)
+➡[Simple calories calculator with Excel](https://github.com/GeorgiDN/python-commons/tree/main/simple_calories_calculator_with_excel)
 
-➡[Registration Form](https://github.com/GeorgiDN/python-mini-projects/tree/main/Registration%20Form)
+➡[Registration Form](https://github.com/GeorgiDN/python-commons/tree/main/registration_form)
 
-➡[Read pdf File](https://github.com/GeorgiDN/python-commons/tree/main/Read%20pdf%20File)
+➡[Read pdf File](https://github.com/GeorgiDN/python-commons/tree/main/pdf_files_read)
 
-➡[Json files](https://github.com/GeorgiDN/python-commons/tree/main/json_files)
+➡[Json files](https://github.com/GeorgiDN/python-commons/tree/main/Json_files)
 
 
 
