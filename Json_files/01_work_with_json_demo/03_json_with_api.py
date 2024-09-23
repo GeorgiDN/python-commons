@@ -5,7 +5,6 @@ from urllib.error import HTTPError
 # Free public API for exchange rates
 url = "https://api.exchangerate-api.com/v4/latest/USD"
 
-
 try:
     with urlopen(url) as response:
         source = response.read()

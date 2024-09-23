@@ -1,4 +1,5 @@
 from random import randint
+
 correct = 0
 quit_condition = False
 tasks_is_over = False
