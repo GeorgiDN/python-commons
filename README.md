@@ -11,11 +11,11 @@
 
 ➡ [MATH](https://github.com/GeorgiDN/python-mini-projects/tree/main/MATH)
 
-➡[Extract Emails](https://github.com/GeorgiDN/python-mini-projects/tree/mhttps://github.com/GeorgiDN/python-commons/tree/main/extract_emails)
+➡[Extract Emails](https://github.com/GeorgiDN/python-commons/tree/main/extract_emails)
 
 ➡[Calculator](https://github.com/GeorgiDN/python-mini-projects/tree/main/Calculator)
 
-➡[Create logo and resized images](https://github.com/GeorgiDN/python-mini-projects/tree/main/Create%20logo%20and%20resized%20imageshttps://github.com/GeorgiDN/python-commons/tree/main/create_logo_and_resized_images)
+➡[Create logo and resized images](https://github.com/GeorgiDN/python-commons/tree/main/create_logo_and_resized_images)
 
 ➡[Image Viewer](https://github.com/GeorgiDN/python-commons/tree/main/image_viewer)
 
