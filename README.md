@@ -30,6 +30,8 @@
 
 ➡[Json files](https://github.com/GeorgiDN/python-commons/tree/main/Json_files)
 
+➡[Add logo on image](https://github.com/GeorgiDN/python-commons/tree/main/add_logo_on_image)
+
 
 
 
