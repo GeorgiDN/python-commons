@@ -24,7 +24,6 @@ for foldername in os.listdir(image_folder):
         row = 2  # Start writing from the second row (after the headers)
         for filename in os.listdir(folder_path):
             if filename.endswith(('.jpg', '.png')):  # Adjust file types as needed
-                # Extract the number after "T_"
                 number = filename.split('_')[1]
 
                 # Write the number to column A
