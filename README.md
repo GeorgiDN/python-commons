@@ -32,8 +32,9 @@
 
 ➡[Add logo on image](https://github.com/GeorgiDN/python-commons/tree/main/add_logo_on_image)
 
+➡[Image Folder to Excel Link Generator](https://github.com/GeorgiDN/python-commons/tree/main/add_file_name_and_link_to_image_in_excel)
 
-
+➡[Scroll Automation Script](https://github.com/GeorgiDN/python-commons/tree/main/scroll%20set)
 
 
 
